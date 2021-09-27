@@ -1,3 +1,6 @@
+<!-- header : https://github.com/kyechan99/capsule-render#wave -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=77878F&height=200&section=header&text=Song%20Nari&fontSize=80&fontColor=77878F&rotate=12&fontAlign=60&fontAlignY=30)
+
 ### Hi there 👋
 
 <!-- badge: https://simpleicons.org -->

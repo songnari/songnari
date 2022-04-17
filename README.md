@@ -13,7 +13,7 @@
 
 
 <!-- 42 badge: https://github.com/JaeSeoKim/badge42 -->
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/nasong?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![nasong's 42 stats](https://badge42.vercel.app/api/v2/cl22vwu65001609mkrdxwp9cx/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 <!-- state: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songnari&show_icons=true&theme=vue)
 <!-- Most Used Languages: https://github.com/anuraghazra/github-readme-stats -->
